@@ -1,0 +1,19 @@
+body {color:black;}
+input,
+textarea,
+select {
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+}
+label {display:block;
+margin:0.5rem 0;}
+.inline {
+  width:unset;
+  margin: 0 0.5em 0 0;vertical-align:middle;
+}
+
+.inline {
+  width:unset;
+  margin: 0 0.5em 0 0;vertical-align:middle;
+}
